@@ -1,5 +1,12 @@
 # devterm-web
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/devterm-web/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/devterm-web/actions)
+![License](https://img.shields.io/github/license/yksanjo/devterm-web)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/devterm-web)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/devterm-web)
+
 ## Detailed Description
 
 devterm-web is maintained as an industry-grade software project with production-ready engineering practices.  
